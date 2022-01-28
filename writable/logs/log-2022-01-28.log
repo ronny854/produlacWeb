@@ -1,0 +1,138 @@
+CRITICAL - 2022-01-28 04:33:40 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\xampp\htdocs\programas\produlacWeb\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\xampp\htdocs\programas\produlacWeb\public\index.php(28): require('F:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-28 04:36:07 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\xampp\htdocs\programas\produlacWeb\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\xampp\htdocs\programas\produlacWeb\public\index.php(28): require('F:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-28 04:36:49 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\xampp\htdocs\programas\produlacWeb\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\xampp\htdocs\programas\produlacWeb\public\index.php(28): require('F:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-28 04:37:26 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\xampp\htdocs\programas\produlacWeb\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\xampp\htdocs\programas\produlacWeb\public\index.php(28): require('F:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-28 04:37:27 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\xampp\htdocs\programas\produlacWeb\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\xampp\htdocs\programas\produlacWeb\public\index.php(28): require('F:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-28 04:37:27 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\xampp\htdocs\programas\produlacWeb\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\xampp\htdocs\programas\produlacWeb\public\index.php(28): require('F:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-28 04:37:27 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\xampp\htdocs\programas\produlacWeb\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\xampp\htdocs\programas\produlacWeb\public\index.php(28): require('F:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-28 04:37:27 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\xampp\htdocs\programas\produlacWeb\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\xampp\htdocs\programas\produlacWeb\public\index.php(28): require('F:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-28 04:43:50 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\xampp\htdocs\programas\produlacWeb\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\xampp\htdocs\programas\produlacWeb\public\index.php(28): require('F:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-28 04:44:53 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\xampp\htdocs\programas\produlacWeb\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\xampp\htdocs\programas\produlacWeb\public\index.php(28): require('F:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-28 04:44:54 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\xampp\htdocs\programas\produlacWeb\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\xampp\htdocs\programas\produlacWeb\public\index.php(28): require('F:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-28 04:44:55 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\xampp\htdocs\programas\produlacWeb\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\xampp\htdocs\programas\produlacWeb\public\index.php(28): require('F:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-28 04:44:55 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\xampp\htdocs\programas\produlacWeb\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\xampp\htdocs\programas\produlacWeb\public\index.php(28): require('F:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-28 04:45:30 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\xampp\htdocs\programas\produlacWeb\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\xampp\htdocs\programas\produlacWeb\public\index.php(28): require('F:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-28 04:47:27 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\xampp\htdocs\programas\produlacWeb\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\xampp\htdocs\programas\produlacWeb\public\index.php(28): require('F:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-28 04:47:28 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\xampp\htdocs\programas\produlacWeb\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\xampp\htdocs\programas\produlacWeb\public\index.php(28): require('F:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-28 04:47:28 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\xampp\htdocs\programas\produlacWeb\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\xampp\htdocs\programas\produlacWeb\public\index.php(28): require('F:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-28 04:47:28 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\xampp\htdocs\programas\produlacWeb\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\xampp\htdocs\programas\produlacWeb\public\index.php(28): require('F:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-28 04:47:28 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\xampp\htdocs\programas\produlacWeb\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\xampp\htdocs\programas\produlacWeb\public\index.php(28): require('F:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-28 04:47:28 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\xampp\htdocs\programas\produlacWeb\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\xampp\htdocs\programas\produlacWeb\public\index.php(28): require('F:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-28 08:48:43 --> Invalid file: loginPage.php
+#0 F:\xampp\htdocs\programas\produlacWeb\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('loginPage.php')
+#1 F:\xampp\htdocs\programas\produlacWeb\system\Common.php(1089): CodeIgniter\View\View->render('loginPage', Array, true)
+#2 F:\xampp\htdocs\programas\produlacWeb\app\Controllers\Home.php(9): view('loginPage')
+#3 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\xampp\htdocs\programas\produlacWeb\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-28 08:48:44 --> Invalid file: loginPage.php
+#0 F:\xampp\htdocs\programas\produlacWeb\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('loginPage.php')
+#1 F:\xampp\htdocs\programas\produlacWeb\system\Common.php(1089): CodeIgniter\View\View->render('loginPage', Array, true)
+#2 F:\xampp\htdocs\programas\produlacWeb\app\Controllers\Home.php(9): view('loginPage')
+#3 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\xampp\htdocs\programas\produlacWeb\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\xampp\htdocs\programas\produlacWeb\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
