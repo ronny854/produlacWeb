@@ -38,9 +38,9 @@
 
 	}
 
+/* 	$(document).ready(function() {
 
 
-	window.onload = function() {
 		var chart1 = document.getElementById("line-chart").getContext("2d");
 		window.myLine = new Chart(chart1).Line(chartnuevo, {
 			responsive: true,
@@ -50,11 +50,7 @@
 
 		});
 
-		$.fn.datepicker.defaults.format = "mm/dd/yyyy";
-		$('.datepicker').datepicker({
-			startDate: '-3d'
-		});
-	};
+	}); */
 </script>
 
 </body>
