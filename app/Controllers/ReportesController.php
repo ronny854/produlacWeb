@@ -6,6 +6,10 @@ class ReportesController extends BaseController
 {
     public function index()
     {
+        $session = \Config\Services::session();
+        if (empty($session->get("datosU"))  || empty($session->get("token") )) {
+            return redirect()->to(base_url());
+        }
         $data = ['inicio' => '', 'produccionG' => '', 'reportes' => 'active'];
 
         $listaProduccionG= $this->apiReportes();
@@ -22,6 +26,9 @@ class ReportesController extends BaseController
     public function apiReportes()
     {
         $session = \Config\Services::session();
+        if (empty($session->get("datosU"))  || empty($session->get("token") )) {
+            return redirect()->to(base_url());
+        }
         $fincas = $this->apiFincas();
         $listaFincas = [];
         foreach ($fincas as $finca) {

@@ -5,15 +5,15 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Admin - Dashboard</title>
-    <link href="assets2/css/bootstrap.min.css" rel="stylesheet">
-    <link href="assets2/css/font-awesome.min.css" rel="stylesheet">
-    <link href="assets2/css/datepicker3.css" rel="stylesheet">
-    <link href="assets2/css/styles.css" rel="stylesheet">
+    <link href=<?php echo base_url()."/public/assets2/css/bootstrap.min.css" ?> rel="stylesheet">
+    <link href=<?php echo base_url()."/public/assets2/css/font-awesome.min.css" ?> rel="stylesheet">
+    <link href=<?php echo base_url()."/public/assets2/css/datepicker3.css" ?> rel="stylesheet">
+    <link href=<?php echo base_url()."/public/assets2/css/styles.css" ?> rel="stylesheet">
     <!-- <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css'> -->
     <link rel='stylesheet' href='https://cdn.datatables.net/1.11.4/css/jquery.dataTables.min.css'>
     <link rel='stylesheet' href='https://cdn.datatables.net/buttons/2.2.2/css/buttons.dataTables.min.css'>
     
-    <link rel="stylesheet" href="assets3/style.css">
+    <link rel="stylesheet" href=<?php echo base_url()."/public/assets3/style.css" ?>>
 
 
     <!--Custom Font-->
