@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->	
-	<link rel="icon" type="image/png" href=<?php echo base_url()."/public/assets/images/icons/favicon.ico"?>>
+<link rel="shortcut icon" href="<?php echo base_url()."/public/logo.png" ?>">
 <!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href=<?php echo base_url()."/public/assets/vendor/bootstrap/css/bootstrap.min.css"?>>
 <!--===============================================================================================-->

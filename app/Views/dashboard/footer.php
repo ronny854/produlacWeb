@@ -44,7 +44,10 @@
 						echo json_encode(0);
 					}
 					?>;
-
+		
+		if(document.getElementById('totallitros')!=null){
+			document.getElementById('totallitros').innerHTML=total;
+		}
 		var chartnuevo = {
 			labels: lista_fechas,
 			datasets: [{

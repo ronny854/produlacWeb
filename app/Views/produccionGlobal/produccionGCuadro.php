@@ -12,6 +12,16 @@
                     <div class="canvas-wrapper">
                         <canvas class="main-chart" id="line-chart" height="200" width="600"></canvas>
                     </div>
+                    <div>
+                        Total Litros: 
+                    </div>
+                    <div>
+                        <b>
+                            <div id="totallitros">
+
+                            </div>
+                        </b>
+                    </div>
                 </div>
             </div>
         </div>
